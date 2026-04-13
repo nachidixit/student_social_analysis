@@ -1,4 +1,3 @@
-```markdown
 # 📊 Data Analysis & Preprocessing Project
 
 This repository contains a complete **Exploratory Data Analysis (EDA)** and **Data Preprocessing pipeline** using Python. The project demonstrates how to clean, analyze, and prepare data for machine learning.
@@ -6,16 +5,12 @@ This repository contains a complete **Exploratory Data Analysis (EDA)** and **Da
 ---
 
 ## 📁 Project Structure
-
-```
-
-├── data.csv                  # Raw dataset
-├── EDA.ipynb                # Exploratory Data Analysis
+├── data.csv # Raw dataset
+├── EDA.ipynb # Exploratory Data Analysis
 ├── Data_preprocessing.ipynb # Data cleaning & preprocessing
-├── requirements.txt         # Dependencies
-└── README.md                # Documentation
+├── requirements.txt # Dependencies
+└── README.md # Documentation
 
-```
 
 ---
 
@@ -43,27 +38,16 @@ This repository contains a complete **Exploratory Data Analysis (EDA)** and **Da
 
 ## ⚙️ Installation
 
-1. Clone the repository:
-```
+### 1. Clone the repository
+git clone https://github.com/your-username/your-repo-name.git
 
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
 cd your-repo-name
 
-```
-
-2. Install dependencies:
-```
-
+### 2. Install dependencies
 pip install -r requirements.txt
 
-```
 
-3. Run Jupyter Notebook:
-```
-
-jupyter notebook
-
-```
+### 3. Run Jupyter Notebook
 
 ---
 
@@ -125,4 +109,3 @@ Contributions are welcome. Fork the repository and submit a pull request.
 ## ⭐ Support
 
 If you found this helpful, give it a ⭐ on GitHub.
-```
